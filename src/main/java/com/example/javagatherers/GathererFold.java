@@ -10,7 +10,7 @@ import java.util.stream.Gatherers;
 /**
  * Main class for the Java Gatherers application.
  */
-public class Main {
+public class GathererFold {
     /**
      * The entry point of the application.
      *
